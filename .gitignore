@@ -1,4 +1,9 @@
 node_modules/
+<<<<<<< HEAD
 .env
 chart.png
 users.json
+=======
+users.json
+.env
+>>>>>>> 9f3db9e716a3de42a43f8db75d3bda9353c0ecf6
